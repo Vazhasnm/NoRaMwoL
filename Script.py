@@ -304,7 +304,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
 
 ╔═════•✧❅✦❅✧•═════╗
 ▣ <a href=https://t.me/+pfrDN32ZvVk4MDNl>​Cɪɴᴇᴍᴀ Vɪʟʟᴀ</a>
-▣ <a href=t.me/CV_Official>ᴄᴠ-ᴏꜰꜰɪᴄɪᴀʟ​</a>
+▣ <a href=t.me/CV_Offical>ᴄᴠ-ᴏꜰꜰɪᴄɪᴀʟ​</a>
 ╚═════•✧❅✦❅✧•═════╝</b>"""
 
     RESTART_TXT = """
