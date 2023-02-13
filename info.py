@@ -74,10 +74,10 @@ TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 COMMAND_HAND_LER = ("/")
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://hyonjoo:hyonjoo@cluster0.lv6txrr.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "hyonjoo")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ironman:ironman@cluster0.o1yjwis.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "ironman")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-MONGO_URL = os.environ.get('MONGO_URL', "mongodb+srv://hyonjoo:hyonjoo@cluster0.lv6txrr.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = os.environ.get('MONGO_URL', "mongodb+srv://ironman:ironman@cluster0.o1yjwis.mongodb.net/?retryWrites=true&w=majority")
 
 #Downloader
 DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
@@ -87,7 +87,7 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "10"))
 S_GROUP = environ.get('S_GROUP',"https://t.me/CV_linkz")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/CV_Official")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/CV_Offical")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+TMCviP7KUY8yZjI9")
 MSG_ALRT = environ.get('MSG_ALRT', '𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐒𝐢𝐫 💜')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
