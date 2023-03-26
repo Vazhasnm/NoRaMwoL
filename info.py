@@ -44,7 +44,7 @@ class evamaria(Client):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '6620972'))
 API_HASH = environ.get('API_HASH', '3f6835286b03e000ab6d71b37cc35b92')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5039178288:AAGXJdASd-4LGzISJoapwne4ejxILFwnoDE')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5127671418:AAEP8f1qSmY1oGfOLJYSae3d89QMOASv0vY')
 
 # Bot settings
 CACHE_TIME = 300
@@ -74,10 +74,10 @@ TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 COMMAND_HAND_LER = ("/")
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Zerina:zerinaxbot@cluster0.gbfew.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Zerina")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Anp4k:Anp4k@cluster0.fopipq1.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Anp4k")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-MONGO_URL = os.environ.get('MONGO_URL', "mongodb+srv://Zerina:zerinaxbot@cluster0.gbfew.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+MONGO_URL = os.environ.get('MONGO_URL', "mongodb+srv://Anp4k:Anp4k@cluster0.fopipq1.mongodb.net/?retryWrites=true&w=majority")
 
 #Downloader
 DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
