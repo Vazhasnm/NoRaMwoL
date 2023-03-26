@@ -453,7 +453,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
             elif settings['botpm']:
                 await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-                await query.answer('𝘾𝙝𝙚𝙘𝙠 𝙋𝙈, 𝙄 𝙝𝙖𝙫𝙚 𝙨𝙚𝙣𝙩 𝙛𝙞𝙡𝙚𝙨 𝙞𝙣 𝙥𝙢\n@Cinemathattakam_Group', show_alert=True)
+                await query.answer('𝘾𝙝𝙚𝙘𝙠 𝙋𝙈, 𝙄 𝙝𝙖𝙫𝙚 𝙨𝙚𝙣𝙩 𝙛𝙞𝙡𝙚𝙨 𝙞𝙣 𝙥𝙢\n@Cv_linkz', show_alert=True)
                 return
             else:
                 file_send=await client.send_cached_media(
@@ -866,8 +866,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/Sathan_of_Telegram'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Sathan_of_Telegram')
+           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/Strelizia_tg'),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Strelizia_tg')
         ], [
             InlineKeyboardButton('⇍Bᴀᴄᴋ', callback_data='help')
         ]]
@@ -962,13 +962,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton("Bᴏᴛ Dᴀᴛᴀʙᴀꜱᴇ", url="t.me/cinemathattakam_group")
+            InlineKeyboardButton("Bᴏᴛ Dᴀᴛᴀʙᴀꜱᴇ", url="https://t.me/+pfrDN32ZvVk4MDNl")
                   ],[
-            InlineKeyboardButton("Gʀᴏᴜᴘ", url="t.me/cinemathattakam_group"),
-            InlineKeyboardButton("​Cʜᴀɴɴᴇʟ", url="t.me/ct_arena")
+            InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/+z4Q23t1RaWpmYmE9"),
+            InlineKeyboardButton("​Cʜᴀɴɴᴇʟ", url="t.me/cv_offical")
                   ],[
-            InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ", url="t.me/cinemathattakam_group"),
-            InlineKeyboardButton("Uᴘᴅᴀᴛᴇꜱ", url="t.me/ct_up_dates")
+            InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/+jVP2bbMEe8FiOWE1"),
+            InlineKeyboardButton("Uᴘᴅᴀᴛᴇꜱ", url="t.me/cv_updatezz")
                   ],[
             InlineKeyboardButton("⇍Bᴀᴄᴋ", callback_data="start")
         ]]   
