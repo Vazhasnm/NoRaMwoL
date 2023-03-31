@@ -14,7 +14,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://settings'>Tʜɪs ᴘᴇʀsᴏɴ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Sathan_Of_Telegram'>Dr.സാത്താൻ</a>
+✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Strelizia_tg'>STᖇEᒪIZIᗩ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/quickfastt'>Qᴜɪᴄᴋ Fᴀsᴛ</a>
@@ -24,7 +24,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
 <b>- 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙰𝙽 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
 <b>DEVS:</b>
-- <a href=https://t.me/Cinemathattakam_Group>[CT™] 📽സിനിമ തട്ടകം</a>"""
+- <a href=https://t.me/movie_HUB23>𝐅𝐫𝐢𝐝𝐚𝐲 𝐌𝐨𝐢𝐯𝐞s</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -100,7 +100,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@Cinemathattakam_group"""
+@Cv_linkz"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -179,7 +179,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @𝙼𝙾𝚅𝙸𝙴𝚂 𝙵𝙻𝙸𝚇"""
+ <i>This feature added by @Cv_Offical"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -349,9 +349,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : STΔRLΣΨ ⌬
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Starley_TG
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/STrelizia_tG'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : AM__NOT _PERFECT_4K
+• ᴜꜱᴇʀɴᴀᴍᴇ : @am_not_perfect4k
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/am_not_perfect4k'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     GROUP_INFO = """
 <b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟</b>
@@ -363,17 +363,17 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     CREDIT_INFO = """
       <b>⍟───[ Cʀᴇᴅɪᴛꜱ ]───⍟</b>   
 𝖳𝗁𝖺𝗇𝗄 𝖳𝗈 : <a href=https://github.com/EvamariaTG>Eᴠᴀ ᴍᴀʀɪᴀ​</a>
-𝖢𝗈𝖽𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Sathan_Of_Telegram>『🔱』Dr.സാത്താൻ</a>
-𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Sathan_Of_Telegram>『🔱』Dr.സാത്താൻ</a>
-𝖥𝖾𝖺𝗍𝗎𝗋𝖾 𝖠𝖽𝖽𝖾𝖽 𝖡𝗒 : <a href=https://github.com/CrazyDeveloperTG/Doctor-Strange>𝐂𝐫𝐚𝐳𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ᠰ 𝐓𝐆</a>
+𝖢𝗈𝖽𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Starley_tg>STΔRLΣΨ ⌬ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ</a>
+𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Strelizia_tg>STᖇEᒪIZIᗩ</a>
+𝖥𝖾𝖺𝗍𝗎𝗋𝖾 𝖠𝖽𝖽𝖾𝖽 𝖡𝗒 : <a href=https://t.me/joel_TG>ქტპℓ</a>
 
        <b>⍟───[ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇꜱ]───⍟</b>
-𝗌𝗈𝗎𝗋𝖼𝖾 𝖼𝗈𝖽𝖾 : <a href=https://t.me/Sathan_Of_Telegram>Asᴋ ʜɪᴍ 😶‍🌫️</a>
-𝖥𝗈𝗋𝗄𝖾𝖽 𝖿𝗋𝗈𝗆 : <a href=https://t.me/Sathan_Of_Telegram>Asᴋ ʜɪᴍ 💻</a>
+𝗌𝗈𝗎𝗋𝖼𝖾 𝖼𝗈𝖽𝖾 : <a href=https://t.me/movie_HUB23>ʜᴇʀᴇ</a>
+𝖥𝗈𝗋𝗄𝖾𝖽 𝖿𝗋𝗈𝗆 : <a href=https://t.me/Strelizia_tg>Asᴋ ʜᴇʀ</a>
 
        <b>⍟───[Mᴀɪɴʟʏ Eᴅɪᴛᴛᴇᴅ]───⍟</b>
-𝖬𝖺𝗂𝗇𝗅𝗒 𝖤𝖽𝗂𝗍𝗍𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Sathan_Of_Telegram>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-𝖲𝗉𝖾𝖼𝗂𝖺𝗅 𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 : <a href=https://t.me/Sathan_Of_Telegram>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
+𝖬𝖺𝗂𝗇𝗅𝗒 𝖤𝖽𝗂𝗍𝗍𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Starley_tg>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+𝖲𝗉𝖾𝖼𝗂𝖺𝗅 𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 : <a href=https://t.me/joel_tg>ᴛʜɪꜱ ᴩᴇʀꜱᴏɴ</a>"""
 
     FIlTERS_TXT = """
 <b>ʜᴇʏ,
